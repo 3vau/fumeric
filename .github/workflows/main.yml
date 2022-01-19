@@ -28,7 +28,7 @@ jobs:
           flutter pub get
           flutter build web
       - name: "Web Deploy 🚀"
-        uses: 3vau/3vau.github.io
+        uses: 3vau/3vau.github.io@4.0.0
         with:
           token: '${{ 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 }}'
           branch: gh-pages
