@@ -32,4 +32,4 @@ Fumeric - Flutter Numeric数数器    v1.0.0
 
 你面前的这个应用，就是我的答卷！希望它能带给你知识与欢乐！
 
-Fumeric数数器    v1.0.0
+Fumeric数数器    v0.0.1
